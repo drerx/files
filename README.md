@@ -1,3 +1,10 @@
+# Links
+
+https://zweilosec.github.io/page6/
+https://github.com/drerx/htb-writeups.git
+
+
+
 # files
 Hi visitor, I'm KasRoudra!
 
